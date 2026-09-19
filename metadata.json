@@ -1,0 +1,6 @@
+{
+  "name": "তিতাস লাইব্রেরি",
+  "description": "তিতাস লাইব্রেরি - বাংলাদেশে অন্যতম একটি আধুনিক অনলাইন লাইব্রেরী ও বইয়ের দোকান",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
